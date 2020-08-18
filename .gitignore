@@ -1,0 +1,4 @@
+main.sh
+*.csv
+*.png
+__pycache__
